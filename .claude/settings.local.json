@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp E:/GitHub/philosophy-skill/philosophy/SKILL.md __TRACKED_VAR__/.claude/skills/philosophy/SKILL.md)",
+      "Bash(cp E:/GitHub/philosophy-skill/philosophy/SKILL.md __TRACKED_VAR__/.claude/skills/skills/philosophy/SKILL.md)"
+    ]
+  }
+}
